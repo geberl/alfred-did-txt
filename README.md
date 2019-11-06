@@ -14,7 +14,7 @@ The editor is set to *MacVim* in the *open file* tile.
 
 ### did
 
-*Invoke Alfred* -> enter `did wash the dishes`. This appends `2018-07-21 09:13:14 - did wash the dishes` to `{var:filelocation}`.
+*Invoke Alfred* -> enter `did wash the dishes`. This appends `2018-07-21 09:13:14 - wash the dishes` to `{var:filelocation}`.
 
 ### didopen
 
