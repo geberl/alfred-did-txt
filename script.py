@@ -3,6 +3,7 @@
 import datetime
 import sys
 
+# TODO make this dynamic
 RESULTS_FILE = "/Users/guenther/Library/Mobile Documents/com~apple~CloudDocs/Documents/did.txt"
 
 
